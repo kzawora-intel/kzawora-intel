@@ -1,7 +1,7 @@
 [![linkedin](https://img.shields.io/badge/linked.in-kzawora-blueviolet)](https://www.linkedin.com/in/kzawora)
 
-- 👋 Hi, I’m Konrad. I work at Habana (Intel) and make high-performance AI software.
-- I'm currently building [vLLM-Gaudi vLLM plugin](https://github.com/vllm-project/vllm-gaudi/) and [vLLM-fork for Gaudi](https://github.com/HabanaAI/vllm-fork). I like it a lot.
+- 👋 Hi, I’m Konrad. I used to work at Habana (Intel) and I made some high-performance AI software. Now I'm doing something else.
+- I built [vLLM-Gaudi vLLM plugin](https://github.com/vllm-project/vllm-gaudi/) and [vLLM-fork for Gaudi](https://github.com/HabanaAI/vllm-fork). I liked it a lot.
 - That's my cat in the avatar.
 
 <!---
